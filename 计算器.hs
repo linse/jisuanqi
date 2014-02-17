@@ -1,13 +1,3 @@
--- ┌─[linse@yolocat]─[~/test]
--- └──╼ ghc -o calc own_combi.hs
--- [1 of 1] Compiling Main             ( own_combi.hs, own_combi.o )
--- Linking calc ...
--- ┌─[linse@yolocat]─[~/test]
--- └──╼ ./calc
--- type ':q' to quit.
--- 二乘以八
--- 二乘以八等于十六
-
 type Parser a = String -> Maybe (a, String) 
 
 dict = [('零', 0) ,('〇', 0) ,('一', 1) ,('二', 2) ,('三', 3) ,('四', 4) ,('五', 5) ,('六', 6) ,('七', 7) ,('八', 8) ,('九', 9), ('十',10), ('百',100)]
