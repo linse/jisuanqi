@@ -14,11 +14,11 @@ This was a really fun problem, thanks for suggesting it!
   [2]: http://bibiserv.techfak.uni-bielefeld.de/adp/
   [3]: http://eprints.nottingham.ac.uk/221/1/parsing.pdf
 
-┌─[linse@yolocat]─[~/jìsuànqì]
-└──╼ ghc 计算器.hs && ./计算器
-[1 of 1] Compiling Main             ( 计算器.hs, 计算器.o )
-Linking 计算器 ...
-type ':q' to quit.
-二乘以八
-二乘以八等于十六
-:q
+    ┌─[linse@yolocat]─[~/jìsuànqì]
+    └──╼ ghc 计算器.hs && ./计算器
+    [1 of 1] Compiling Main             ( 计算器.hs, 计算器.o )
+    Linking 计算器 ...
+    type ':q' to quit.
+    二乘以八
+    二乘以八等于十六
+    :q
